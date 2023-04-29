@@ -1,0 +1,16 @@
+mx.gob.sat.cfdi.cfdv22
+mx.gob.sat.cfdi.detallista
+mx.gob.sat.cfdi.divisas
+mx.gob.sat.cfdi.donat11
+mx.gob.sat.cfdi.ecb
+mx.gob.sat.cfdi.ecc
+mx.gob.sat.cfdi.iedu
+mx.gob.sat.cfdi.implocal
+mx.gob.sat.cfdi.leyendasFisc
+mx.gob.sat.cfdi.pfic
+mx.gob.sat.cfdi.psgcfdsp
+mx.gob.sat.cfdi.psgecfd
+mx.gob.sat.cfdi.terceros11
+mx.gob.sat.cfdi.TuristaPasajeroExtranjero
+mx.gob.sat.cfdi.utilerias
+mx.gob.sat.cfdi.ventavehiculos

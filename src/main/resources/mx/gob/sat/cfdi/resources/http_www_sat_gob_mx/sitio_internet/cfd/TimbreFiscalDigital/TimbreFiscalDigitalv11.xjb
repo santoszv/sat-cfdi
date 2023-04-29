@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jaxb:bindings xmlns:jaxb="https://jakarta.ee/xml/ns/jaxb"
+               xmlns:prefix="http://jaxb2-commons.dev.java.net/namespace-prefix"
+               xmlns:xs="http://www.w3.org/2001/XMLSchema"
+               xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
+               jaxb:version="3.0">
+    <jaxb:globalBindings typesafeEnumMaxMembers="0">
+        <xjc:serializable uid="1"/>
+    </jaxb:globalBindings>
+    <jaxb:bindings schemaLocation="http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd">
+        <jaxb:bindings>
+            <prefix:prefix name="tfd"/>
+        </jaxb:bindings>
+    </jaxb:bindings>
+</jaxb:bindings>

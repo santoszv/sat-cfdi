@@ -1,0 +1,12 @@
+mx.gob.sat.cfdi.cfdv2
+mx.gob.sat.cfdi.detallista
+mx.gob.sat.cfdi.divisas
+mx.gob.sat.cfdi.donat
+mx.gob.sat.cfdi.ecb
+mx.gob.sat.cfdi.ecc
+mx.gob.sat.cfdi.iedu
+mx.gob.sat.cfdi.implocal
+mx.gob.sat.cfdi.psgcfdsp
+mx.gob.sat.cfdi.psgecfd
+mx.gob.sat.cfdi.terceros
+mx.gob.sat.cfdi.utilerias
